@@ -1,2 +1,3 @@
 # Miner-a-de-datos
-Final
+Examen Final de minería de datos
+2020
